@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/internship_python_assinment.iml" filepath="$PROJECT_DIR$/.idea/internship_python_assinment.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/static_python_assessment.iml" filepath="$PROJECT_DIR$/.idea/static_python_assessment.iml" />
+>>>>>>> 8ec431f (my first commit)
     </modules>
   </component>
 </project>
